@@ -36,7 +36,6 @@ nav{
 
 
 .header-title{
-    font-family:"Kanit";
     background-color: white;
     background-clip: text;
     -webkit-background-clip: text;
@@ -48,7 +47,6 @@ nav{
 
 }
 .header-subtitle{
-    font-family: "kanit";
     background-color: rgb(255, 255, 111);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
